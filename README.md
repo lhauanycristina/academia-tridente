@@ -1,2 +1,1 @@
 # academia-tridente
-htts
